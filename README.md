@@ -117,5 +117,4 @@ The protocol implements comprehensive error handling with specific error codes:
 
 ## Contributing
 
-Contributions are welcome! Please read our contributing guidelines and submit pull requests to our repository.
-
+Contributions are welcome! 
